@@ -1,6 +1,6 @@
 # IT-Tracker
 
-My current understanding about IT fields
+My current understandings of some (not every) Information Technology want-to-learn / known fields
 
 - [Business process engineering and management](#)
 - [Data and information governance](#)
