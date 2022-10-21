@@ -16,3 +16,11 @@ My current understanding about IT fields
 ## Another Tracker
 
 - [SE-Tracker](https://github.com/fzn0x/SE-Tracker)
+
+## Note
+
+The list here is not **what you need to learn**, it is only what I want to learn and I already did learn.
+
+## Examples from the known fields
+
+Coming Soon!
