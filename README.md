@@ -16,6 +16,7 @@ My current understandings of some (not every) Information Technology want-to-lea
 ## Another Tracker
 
 - [SE-Tracker](https://github.com/fzn0x/SE-Tracker)
+- [CS-Tracker](https://github.com/fzn0x/CS-Tracker)
 
 ## Note
 
